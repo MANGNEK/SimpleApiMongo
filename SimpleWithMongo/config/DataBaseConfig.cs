@@ -1,6 +1,7 @@
 ﻿using MongoDB.Driver;
 using SimpleWithMongo.DbConText;
 using SimpleWithMongo.Interface;
+using SimpleWithMongo.Model;
 using SimpleWithMongo.Services;
 
 namespace SimpleWithMongo.config;
@@ -16,5 +17,6 @@ public static class DataBaseConfig
             return new MongoDbContext(connectionString!, DataName!);
         });
         services.AddScoped<IAccountService,AccountService>();
+        services.AddScoped<IReportData, ReportDataService>();
     }
 }

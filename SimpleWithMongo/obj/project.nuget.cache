@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0GN2/D+A2/ydtkio9NLIVPSd1Syz6JirEZE2Yv8ZZOCFg0PCfzQ8zDPAEXnsqK+bnKkQbFL9E2F5RmjFMD2Cfw==",
+  "dgSpecHash": "qRUOVYNjaNbThHvYrdxAl7jS3kRuosSUrmARr6IDhHrzIHlxc19XE0Vi34PPrtmFHzpgnG5rT7jqcX5NPnNk0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trung\\source\\repos\\SimpleWithMongo\\SimpleWithMongo\\SimpleWithMongo.csproj",
+  "projectFilePath": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\SimpleWithMongo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trung\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\trung\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
