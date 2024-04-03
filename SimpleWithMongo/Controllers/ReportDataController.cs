@@ -7,9 +7,11 @@ namespace SimpleWithMongo.Controllers;
 public class ReportDataController : ControllerBase
 {
     private readonly IReportData reportData;
-    public ReportDataController(IReportData reportData)
+    private readonly IDataOpenWeatherMap weatherMap;
+    public ReportDataController(IReportData reportData, IDataOpenWeatherMap weatherMap)
     {
         this.reportData = reportData;
+        this.weatherMap = weatherMap;
     }
 
     [HttpPost]
@@ -23,5 +25,12 @@ public class ReportDataController : ControllerBase
     public async Task UpdateData([FromBody] ReportDataRequest request)
     {
         await reportData.Update(request);
+    }
+    [HttpGet]
+    [Route("OpenMap")]
+    public async Task<OpenWeatherMapRequest> Getdat()
+    {
+        await weatherMap.UpdateData();
+        return await weatherMap.GetData();
     }
 }

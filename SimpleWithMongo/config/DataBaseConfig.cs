@@ -16,7 +16,10 @@ public static class DataBaseConfig
             var DataName = configuration.GetValue<string>("MongoConnection:DatabaseName");
             return new MongoDbContext(connectionString!, DataName!);
         });
+        services.AddHttpClient();
         services.AddScoped<IAccountService,AccountService>();
         services.AddScoped<IReportData, ReportDataService>();
+        services.AddScoped<IDataOpenWeatherMap, DataOpenWeatherMap>();
+        services.AddScoped<IDataNow, DataDayNowService>();
     }
 }

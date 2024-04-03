@@ -3,56 +3,99 @@
   "WorkspaceRootPath": "E:\\A_Code_Working\\SimpleApiMongo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\model\\datadaynowmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\model\\datadaynowmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\services\\dataopenweathermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\services\\dataopenweathermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\services\\datadaynowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\services\\datadaynowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\interface\\idatanow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\interface\\idatanow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\controllers\\reportdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\controllers\\reportdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\interface\\imongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\interface\\imongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\services\\reportdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\services\\reportdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\interface\\ireportdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\interface\\ireportdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\config\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\config\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\dbcontext\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\dbcontext\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trung\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\interface\\idataopenweathermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\interface\\idataopenweathermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\cronjob\\cronjodconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\cronjob\\cronjodconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\cronjob\\jodgetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\cronjob\\jodgetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\request\\reportdatarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\request\\reportdatarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\request\\openweathermaprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\request\\openweathermaprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\services\\reportdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\services\\reportdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\model\\reportdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\model\\reportdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\config\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\config\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\interface\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\interface\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\interface\\imongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\interface\\imongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\dbcontext\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\dbcontext\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\interface\\ireportdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\interface\\ireportdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\request\\reportdatarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\request\\reportdatarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|e:\\a_code_working\\simpleapimongo\\simplewithmongo\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9582DB3-4034-4146-B011-AC58A3F99942}|SimpleWithMongo\\SimpleWithMongo.csproj|solutionrelative:simplewithmongo\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +105,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,80 +114,87 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "SimpleWithMongo\\Controllers\\AccountController.cs",
-              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "SimpleWithMongo\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAsAAAAkAAAA",
+              "Title": "DataOpenWeatherMap.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Services\\DataOpenWeatherMap.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\Services\\DataOpenWeatherMap.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Services\\DataOpenWeatherMap.cs",
+              "RelativeToolTip": "SimpleWithMongo\\Services\\DataOpenWeatherMap.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwCQAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T15:52:47.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReportDataController.cs",
-              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Controllers\\ReportDataController.cs",
-              "RelativeDocumentMoniker": "SimpleWithMongo\\Controllers\\ReportDataController.cs",
-              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Controllers\\ReportDataController.cs",
-              "RelativeToolTip": "SimpleWithMongo\\Controllers\\ReportDataController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T15:52:05.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MongoDbContext.cs",
-              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\DbConText\\MongoDbContext.cs",
-              "RelativeDocumentMoniker": "SimpleWithMongo\\DbConText\\MongoDbContext.cs",
-              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\DbConText\\MongoDbContext.cs",
-              "RelativeToolTip": "SimpleWithMongo\\DbConText\\MongoDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T15:50:20.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IMongoDbContext.cs",
-              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Interface\\IMongoDbContext.cs",
-              "RelativeDocumentMoniker": "SimpleWithMongo\\Interface\\IMongoDbContext.cs",
-              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Interface\\IMongoDbContext.cs",
-              "RelativeToolTip": "SimpleWithMongo\\Interface\\IMongoDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T15:50:16.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ReportDataService.cs",
-              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Services\\ReportDataService.cs",
-              "RelativeDocumentMoniker": "SimpleWithMongo\\Services\\ReportDataService.cs",
-              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Services\\ReportDataService.cs",
-              "RelativeToolTip": "SimpleWithMongo\\Services\\ReportDataService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T15:43:21.579Z",
+              "WhenOpened": "2024-04-03T02:07:13.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IReportData.cs",
-              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Interface\\IReportData.cs",
-              "RelativeDocumentMoniker": "SimpleWithMongo\\Interface\\IReportData.cs",
-              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Interface\\IReportData.cs",
-              "RelativeToolTip": "SimpleWithMongo\\Interface\\IReportData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Title": "ReportDataController.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Controllers\\ReportDataController.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\Controllers\\ReportDataController.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Controllers\\ReportDataController.cs",
+              "RelativeToolTip": "SimpleWithMongo\\Controllers\\ReportDataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T15:42:12.174Z",
+              "WhenOpened": "2024-02-21T15:52:05.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReportDataService.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Services\\ReportDataService.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\Services\\ReportDataService.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Services\\ReportDataService.cs",
+              "RelativeToolTip": "SimpleWithMongo\\Services\\ReportDataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:43:21.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs",
+              "ToolTip": "C:\\Users\\trung\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs [Read Only]",
+              "ViewState": "AQIAADkAAAAAAAAAAAAuwGEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:29:44.898Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataDayNowModel.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Model\\DataDayNowModel.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\Model\\DataDayNowModel.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Model\\DataDayNowModel.cs",
+              "RelativeToolTip": "SimpleWithMongo\\Model\\DataDayNowModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:46:52.769Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\config\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\config\\MapperConfig.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\config\\MapperConfig.cs",
+              "RelativeToolTip": "SimpleWithMongo\\config\\MapperConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T07:39:12.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\Program.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Program.cs",
+              "RelativeToolTip": "SimpleWithMongo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:19:06.352Z"
             },
             {
               "$type": "Document",
@@ -154,14 +204,145 @@
               "RelativeDocumentMoniker": "SimpleWithMongo\\config\\DataBaseConfig.cs",
               "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\config\\DataBaseConfig.cs",
               "RelativeToolTip": "SimpleWithMongo\\config\\DataBaseConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T15:39:15.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T15:39:15.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "IDataNow.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Interface\\IDataNow.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\Interface\\IDataNow.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Interface\\IDataNow.cs",
+              "RelativeToolTip": "SimpleWithMongo\\Interface\\IDataNow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:52:29.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataDayNowService.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Services\\DataDayNowService.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\Services\\DataDayNowService.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Services\\DataDayNowService.cs",
+              "RelativeToolTip": "SimpleWithMongo\\Services\\DataDayNowService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:53:57.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDataOpenWeatherMap.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Interface\\IDataOpenWeatherMap.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\Interface\\IDataOpenWeatherMap.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Interface\\IDataOpenWeatherMap.cs",
+              "RelativeToolTip": "SimpleWithMongo\\Interface\\IDataOpenWeatherMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T01:52:50.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OpenWeatherMapRequest.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Request\\OpenWeatherMapRequest.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\Request\\OpenWeatherMapRequest.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Request\\OpenWeatherMapRequest.cs",
+              "RelativeToolTip": "SimpleWithMongo\\Request\\OpenWeatherMapRequest.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAA7wBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:04:02.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JodGetData.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Cronjob\\JodGetData.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\Cronjob\\JodGetData.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Cronjob\\JodGetData.cs",
+              "RelativeToolTip": "SimpleWithMongo\\Cronjob\\JodGetData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T04:14:19.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CronjodConfig.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Cronjob\\CronjodConfig.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\Cronjob\\CronjodConfig.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Cronjob\\CronjodConfig.cs",
+              "RelativeToolTip": "SimpleWithMongo\\Cronjob\\CronjodConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T04:16:39.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\Services\\AccountService.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Services\\AccountService.cs",
+              "RelativeToolTip": "SimpleWithMongo\\Services\\AccountService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:32:10.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\DbConText\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\DbConText\\MongoDbContext.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\DbConText\\MongoDbContext.cs",
+              "RelativeToolTip": "SimpleWithMongo\\DbConText\\MongoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:50:20.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportData.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Model\\ReportData.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\Model\\ReportData.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Model\\ReportData.cs",
+              "RelativeToolTip": "SimpleWithMongo\\Model\\ReportData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:40:22.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SimpleWithMongo\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:52:47.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IReportData.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Interface\\IReportData.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\Interface\\IReportData.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Interface\\IReportData.cs",
+              "RelativeToolTip": "SimpleWithMongo\\Interface\\IReportData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:42:12.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "ReportDataRequest.cs",
               "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Request\\ReportDataRequest.cs",
               "RelativeDocumentMoniker": "SimpleWithMongo\\Request\\ReportDataRequest.cs",
@@ -169,25 +350,35 @@
               "RelativeToolTip": "SimpleWithMongo\\Request\\ReportDataRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T15:41:33.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T15:41:33.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ReportData.cs",
-              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Model\\ReportData.cs",
-              "RelativeDocumentMoniker": "SimpleWithMongo\\Model\\ReportData.cs",
-              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Model\\ReportData.cs",
-              "RelativeToolTip": "SimpleWithMongo\\Model\\ReportData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "DocumentIndex": 18,
+              "Title": "IMongoDbContext.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Interface\\IMongoDbContext.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\Interface\\IMongoDbContext.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Interface\\IMongoDbContext.cs",
+              "RelativeToolTip": "SimpleWithMongo\\Interface\\IMongoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T15:40:22.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T15:50:16.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Interface\\IAccountService.cs",
+              "RelativeDocumentMoniker": "SimpleWithMongo\\Interface\\IAccountService.cs",
+              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Interface\\IAccountService.cs",
+              "RelativeToolTip": "SimpleWithMongo\\Interface\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:23:08.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Account.cs",
               "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Model\\Account.cs",
               "RelativeDocumentMoniker": "SimpleWithMongo\\Model\\Account.cs",
@@ -195,37 +386,11 @@
               "RelativeToolTip": "SimpleWithMongo\\Model\\Account.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T15:39:41.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T15:39:41.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Services\\AccountService.cs",
-              "RelativeDocumentMoniker": "SimpleWithMongo\\Services\\AccountService.cs",
-              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Services\\AccountService.cs",
-              "RelativeToolTip": "SimpleWithMongo\\Services\\AccountService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T15:32:10.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Program.cs",
-              "RelativeDocumentMoniker": "SimpleWithMongo\\Program.cs",
-              "ToolTip": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\Program.cs",
-              "RelativeToolTip": "SimpleWithMongo\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T15:19:06.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\A_Code_Working\\SimpleApiMongo\\SimpleWithMongo\\appsettings.json",
               "RelativeDocumentMoniker": "SimpleWithMongo\\appsettings.json",

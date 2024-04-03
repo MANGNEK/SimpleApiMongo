@@ -7,3 +7,4 @@ services:
       dockerfile: Dockerfile
     ports:
       - "9680:8080"
+    restart: always
