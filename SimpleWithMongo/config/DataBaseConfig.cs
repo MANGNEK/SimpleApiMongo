@@ -21,5 +21,6 @@ public static class DataBaseConfig
         services.AddScoped<IReportData, ReportDataService>();
         services.AddScoped<IDataOpenWeatherMap, DataOpenWeatherMap>();
         services.AddScoped<IDataNow, DataDayNowService>();
+        services.AddScoped<INotification, NotificationService>();
     }
 }
