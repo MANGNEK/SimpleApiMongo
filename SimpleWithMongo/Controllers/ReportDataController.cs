@@ -30,8 +30,6 @@ public class ReportDataController : ControllerBase
         if(double.Parse(request.Temperture) > 36) await notification.Create(new Model.NotifineModel { Note = request.Temperture , TypeLog = "Hight Temperture!!! , Data Temperture: "+request.Temperture });
         if(request.Raindrop) await notification.Create(new Model.NotifineModel { Note = "Have Rain Drop in You House ", TypeLog = "Raind Drop!!!" });
         if(double.Parse(request.Gasdata)> 400 ) await notification.Create(new Model.NotifineModel { Note = "Maybe Have Gas Leak In You House", TypeLog = "Gas Leak!!!, Data Gas : "+request.Gasdata });
-        var data = await notification.GetAll();
-        var data2 = data;
     }
     [HttpGet]
     [Route("OpenMap")]
