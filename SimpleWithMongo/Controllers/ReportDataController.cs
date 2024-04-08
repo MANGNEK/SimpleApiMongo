@@ -27,9 +27,9 @@ public class ReportDataController : ControllerBase
     public async Task UpdateData([FromBody] ReportDataRequest request)
     {
         await reportData.Update(request);
-        if(double.Parse(request.Temperture) > 36) await notification.Create(new Model.NotifineModel { Note = request.Temperture , TypeLog = "Hight Temperture!!! , Data Temperture: "+request.Temperture });
-        if(request.Raindrop) await notification.Create(new Model.NotifineModel { Note = "Have Rain Drop in You House ", TypeLog = "Raind Drop!!!" });
-        if(double.Parse(request.Gasdata)> 400 ) await notification.Create(new Model.NotifineModel { Note = "Maybe Have Gas Leak In You House", TypeLog = "Gas Leak!!!, Data Gas : "+request.Gasdata });
+        if(double.Parse(request.Temperture) > 36) await notification.Create(new Model.NotifineModel { Note = "Hight Temperture ", TypeLog = "Value : " + request.Temperture});
+        if(request.Raindrop) await notification.Create(new Model.NotifineModel { Note = "Have Rain Drop in You House ", TypeLog = "Value : True" });
+        if(double.Parse(request.Gasdata)> 400 ) await notification.Create(new Model.NotifineModel { Note = "Maybe Have Gas Leak In You House", TypeLog = "Value : "+request.Gasdata });
     }
     [HttpGet]
     [Route("OpenMap")]

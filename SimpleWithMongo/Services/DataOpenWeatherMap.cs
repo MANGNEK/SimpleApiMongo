@@ -48,7 +48,7 @@ public class DataOpenWeatherMap : IDataOpenWeatherMap
     {
         var data = await GetData();
         DataDayNowModel model = new DataDayNowModel {
-            Temperture = ((data.main.temp - 32) * 5 / 9).ToString(),
+            Temperture = ((data.main.temp - 32) * 5 / 9).ToString("F1"),
             Humidity = data.main.humidity.ToString(),
             Cloud = data.clouds.all.ToString(),
             WindSpeed = data.wind.speed.ToString(),
