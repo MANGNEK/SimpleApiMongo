@@ -26,6 +26,7 @@ public class ReportDataController : ControllerBase
     [Route("updateReport")]
     public async Task UpdateData([FromBody] ReportDataRequest request)
     {
+        Console.WriteLine("có nek");
         await reportData.Update(request);
         if(double.Parse(request.Temperture) > 36) await notification.Create(new Model.NotifineModel { Note = "Hight Temperture ", TypeLog = "Value : " + request.Temperture});
         if(request.Raindrop) await notification.Create(new Model.NotifineModel { Note = "Have Rain Drop in You House ", TypeLog = "Value : True" });
