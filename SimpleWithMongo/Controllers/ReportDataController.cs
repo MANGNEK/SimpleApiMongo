@@ -28,7 +28,8 @@ public class ReportDataController : ControllerBase
     {
         Console.WriteLine("có nek");
         await reportData.Update(request);
-        if(double.Parse(request.Temperture) > 36) await notification.Create(new Model.NotifineModel { Note = "Hight Temperture ", TypeLog = "Value : " + request.Temperture});
+        Console.WriteLine(" data tem : "+ double.Parse(request.Temperture));
+        if(double.Parse(request.Temperture) > 30) await notification.Create(new Model.NotifineModel { Note = "Hight Temperture ", TypeLog = "Value : " + request.Temperture});
         if(request.Raindrop) await notification.Create(new Model.NotifineModel { Note = "Have Rain Drop in You House ", TypeLog = "Value : True" });
         if(double.Parse(request.Gasdata)> 400 ) await notification.Create(new Model.NotifineModel { Note = "Maybe Have Gas Leak In You House", TypeLog = "Value : "+request.Gasdata });
     }
