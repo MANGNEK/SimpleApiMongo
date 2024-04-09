@@ -21,9 +21,10 @@ namespace SimpleWithMongo.Services
            return new List<NotifineModel>();
         }
         public async Task DataInput(double Temperture , double Gas , bool Rain){
-            if(Temperture > 30) await Create(new NotifineModel { Note = "Hight Temperture ", TypeLog = "Value : " + Temperture});
+            if(Temperture > 40) await Create(new NotifineModel { Note = "Hight Temperture ", TypeLog = "Value : " + Temperture});
             if(Gas > 400) await Create(new NotifineModel { Note = "Maybe Have Gas Leak In You House", TypeLog = "Value : "+Gas });
-            if(Rain) await Create(new NotifineModel{Note =" Have Rain", TypeLog = "Value"+Gas});
+            if(Rain) await Create(new NotifineModel{Note =" Have Rain", TypeLog = "Value : "+ Rain});
+            Console.WriteLine("Oke !!!");
         }
     }
 }
